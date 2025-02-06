@@ -12,5 +12,4 @@ message = ""  # Your message
 hour = 12  # Message time (24-hour format)
 minute = 30  # Message minute
 
-# Call the function
 automatic_message(number, message, hour, minute)
